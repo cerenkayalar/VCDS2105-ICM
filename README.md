@@ -21,39 +21,69 @@ The course assumes basic high school math and no technical background.
 ## Resources
 Reas, C. and Fry, B. (2015). Getting Started with Processing, 2nd Edition. Maker Media. 
 
+
 Berry, D. (2011). The Philosophy of Software: Code and Mediation in the Digital Age. Palgrave MacMillan.
+
 Bohnacker, H., Gross, B., Laub, J. and Lazzeroni, C. (2012). Generative Design: Visualize. Program and Create with Processing. Princeton Architectural Press.
+
 Crawford, C. (2003). The Art of Interactive Design. No Starch Press, Inc.
+
 Greenberg, I., Xu, D. and Kumar, D. (2013). Processing: Creative coding and Generative art in Processing 2. Apress. 
+
 Maeda, J. (2001). Design by Numbers. The MIT Press.
+
 Maeda, J. (2004). Creative Code: Aesthetics + Computation. Thames&Hudson. 
+
 Pearson, M. (2011). Generative Art: A Practical Guide Using Processing. Manning Publications Co.
+
 Reas, C. and Fry, B. (2015). Processing: A Programming Handbook for Visual Designers and Artists, 2nd Edition. The MIT Press.
+
 Reas, C. and McWilliams, C. (2010). Form+Code in Design, Art and Architecture. Princeton Architectural Press.
+
 Shiffman, D. (2015). Learning Processing, 2nd Edition: A Beginner’s Guide to Programming Images, Animation, and Interaction. Morgan Kaufmann.
+
 Shiffman, D. (2013). The Nature of Code: Simulating Natural Systems with Processing. Amazon Digital Services LLC.
+
 Terzidis, K. (2009). Algorithms for Visual Design. Wiley Publishing, Inc.
+
 
 ## Assesment
 8 Assignments (40%)
+
 10 Practice (40%)
+
 Final Project (20%)
+
 
 ## Weekly Schedule
 Week #1: Introduction to Computational Creativity and Algorithmic Thinking // Hello Processing // Who/What/How …? #1
+
 Week #2: Coordinate Systems // Draw: Define and draw simple shapes // Who/What/How …? #2
+
 Week #3: Interactivity I: animation loop, basic mouse keyboard functions // System variables, Comments // Who/What/How …? #3
+
 Week #4: Variables I: Store, modify, and reuse data // Conditionals and Flow (if-else) // Interactivity II: Control and influence programs with mouse and keyboard- Follow, Click // Who/What/How …? #4
+
 Week #5: Variables II: Store, modify, and reuse data - repetition  // Loops  // Interactivity III: Control and influence programs with mouse and keyboard – Location, Type, Map // Media I: Load and display media including images, fonts and vector files // Who/What/How …? #5
+
 Week #6: Motion I: Move and choreograph shapes - Frames, Speed and Direction, Tween // Text and Typography // Who/What/How …? #6
+
 Week #7: Arrays: Simplify working with lists of variables - Repetition  // Algorithms Re-visited, Debugging  // Make it more fun: Libraries I  // Who/What/How …? #7
+
 Week #8: Media II: Video, Basic Computer Vision, Kinect // OOP I: Functions - Create code modules that combine variables and functions // Who/What/How …? #8
+
 Week #9: OOP II: Classes and Objects // Make it more fun: Libraries II // // Who/What/How …? #9
+
 Week #10: OOP III: Objects, Loops and Arrays Re-visited // Who/What/How …? #10
+
 Week #11: Motion II: Move and choreograph shapes - Random, Timers // Make it more fun: Libraries III  // Who/What/How …? #11
+
 Week #12: Motion III: Move and choreograph shapes - Circular // Data: Read and Visualize // Who/What/How …? #12
+
 Week #13: Final Project Workshop I: Proposal & Proof-of-Concept
+
 Week #14: Final Project Workshop II: Testing & Feedback
+
 
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered
