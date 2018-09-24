@@ -19,9 +19,10 @@ The course assumes basic high school math and no technical background.
 6.  Get acquainted with the Processing software environment
 
 ## Resources
+### Main Text
 Reas, C. and Fry, B. (2015). Getting Started with Processing, 2nd Edition. Maker Media. 
 
-
+### Recommended Reading
 Berry, D. (2011). The Philosophy of Software: Code and Mediation in the Digital Age. Palgrave MacMillan.
 
 Bohnacker, H., Gross, B., Laub, J. and Lazzeroni, C. (2012). Generative Design: Visualize. Program and Create with Processing. Princeton Architectural Press.
@@ -56,7 +57,10 @@ Final Project (20%)
 
 
 ## Weekly Schedule
-Week #1: Introduction to Computational Creativity and Algorithmic Thinking // Hello Processing // Who/What/How …? #1
+### Week #1: 
+- Introduction to Computational Creativity and Algorithmic Thinking
+- Hello Processing
+- Who/What/How …? #1
 
 Week #2: Coordinate Systems // Draw: Define and draw simple shapes // Who/What/How …? #2
 
