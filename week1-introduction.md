@@ -5,7 +5,7 @@ e-mail: cerenk at gmail dot com
 
 [Classical designers are slowly beginning to evolve](https://johnmaeda.github.io/#22) 
 
-Introduction to Computational Media, Computational Creativity and Algorithmic Thinking
+*Introduction to Computational Media, Computational Creativity and Algorithmic Thinking*
 
 According to the [Media Systems' report](https://mediasystems.soe.ucsc.edu/report) Computational Media "helps us better understand the new media/digital landscape by focusing our attention on the types of work and the types of knowledge and skills that are required, and the kinds of outcomes of that work and knowledge"
 
@@ -21,6 +21,7 @@ Activity #1: [Drive me home](http://www.dan.sv.it/teaching/ixd307f17/a2.htm)
 Activity #2: [Drawing dictation](http://www.dan.sv.it/teaching/ixd307f17/a3.htm)
 #interpreter, compiler
 
+*Hands on*
 [Hello Processing](https://hello.processing.org) by [Daniel Shiffman](https://shiffman.net)... and his Youtube Channel: [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 [Processing tutorials](https://www.youtube.com/watch?v=oggIUghKe0I&list=PLrC-HcVNfULZoKXd2PRi1Mcl3IhGrBiLk)
