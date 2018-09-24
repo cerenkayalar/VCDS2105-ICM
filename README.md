@@ -1,9 +1,10 @@
 # VCDS2105-ICM
 Introduction To Digital Media Coding (a.k.a Introduction to Computational Media) @Yasar University
+
 This course is designed particularly for visual communication design students who are interested in better understanding how computers work, how their daily workflow can be improved using this knowledge and in learning to create their own digital media
 
 ## Description
-Software influences all aspects of contemporary design and visual culture. Many established artists, designers, architects, creators of video games and animated films integrate software into their daily processes, write software to realize their ideas and enhance their work. This course will introduce coding using Processing language, and explore programming concepts with the aim of using computation as an expressive and creative tool. At the end of the semester, the computer will not just be a tool, it will become a medium for the student. 
+Software influences all aspects of contemporary design and visual culture. Many established artists, designers, architects, creators of video games and animated films integrate software into their daily processes, write software to realize their ideas and enhance their work. This course will introduce coding using [Processing](https://processing.org) language, and explore programming concepts with the aim of using computation as an expressive and creative tool. At the end of the semester, the computer will not just be a tool, it will become a medium for the student. 
 
 ## Content
 Students will learn basic programming skills, including understanding and controlling how data is represented in computers (data types and structures), telling the computer how to make decisions on the fly (conditionals) and how and when to repeat instructions (loops), structuring and organizing your computer code (functions and objects), and techniques for debugging your code. Using programming concepts as a tool, the students will generate images, create animations, manipulate text and make media respond interactively to user input. 
@@ -57,36 +58,74 @@ Final Project (20%)
 
 
 ## Weekly Schedule
-### Week #1: 
+### Week #1 
 - Introduction to Computational Creativity and Algorithmic Thinking
 - Hello Processing
 - Who/What/How …? #1
 
-Week #2: Coordinate Systems // Draw: Define and draw simple shapes // Who/What/How …? #2
+### Week #2 
+- Coordinate Systems 
+- Draw: Define and draw simple shapes
+- Who/What/How …? #2
 
-Week #3: Interactivity I: animation loop, basic mouse keyboard functions // System variables, Comments // Who/What/How …? #3
+### Week #3 
+- Interactivity I: animation loop, basic mouse keyboard functions 
+- System variables, Comments 
+- Who/What/How …? #3
 
-Week #4: Variables I: Store, modify, and reuse data // Conditionals and Flow (if-else) // Interactivity II: Control and influence programs with mouse and keyboard- Follow, Click // Who/What/How …? #4
+### Week #4 
+- Variables I: Store, modify, and reuse data
+- Conditionals and Flow (if-else)
+- Interactivity II: Control and influence programs with mouse and keyboard- Follow, Click
+- Who/What/How …? #4
 
-Week #5: Variables II: Store, modify, and reuse data - repetition  // Loops  // Interactivity III: Control and influence programs with mouse and keyboard – Location, Type, Map // Media I: Load and display media including images, fonts and vector files // Who/What/How …? #5
+### Week #5
+- Variables II: Store, modify, and reuse data - repetition 
+- Loops
+- Interactivity III: Control and influence programs with mouse and keyboard – Location, Type, Map 
+- Media I: Load and display media including images, fonts and vector files 
+- Who/What/How …? #5
 
-Week #6: Motion I: Move and choreograph shapes - Frames, Speed and Direction, Tween // Text and Typography // Who/What/How …? #6
+### Week #6
+- Motion I: Move and choreograph shapes - Frames, Speed and Direction, Tween
+- Text and Typography 
+- Who/What/How …? #6
 
-Week #7: Arrays: Simplify working with lists of variables - Repetition  // Algorithms Re-visited, Debugging  // Make it more fun: Libraries I  // Who/What/How …? #7
+### Week #7
+- Arrays: Simplify working with lists of variables - Repetition 
+- Algorithms Re-visited, Debugging
+- Make it more fun: Libraries I 
+- Who/What/How …? #7
 
-Week #8: Media II: Video, Basic Computer Vision, Kinect // OOP I: Functions - Create code modules that combine variables and functions // Who/What/How …? #8
+### Week #8
+- Media II: Video, Basic Computer Vision, Kinect
+- OOP I: Functions - Create code modules that combine variables and functions
+- Who/What/How …? #8
 
-Week #9: OOP II: Classes and Objects // Make it more fun: Libraries II // // Who/What/How …? #9
+### Week #9 
+- OOP II: Classes and Objects
+- Make it more fun: Libraries II
+- Who/What/How …? #9
 
-Week #10: OOP III: Objects, Loops and Arrays Re-visited // Who/What/How …? #10
+### Week #10
+- OOP III: Objects, Loops and Arrays Re-visited
+- Who/What/How …? #10
 
-Week #11: Motion II: Move and choreograph shapes - Random, Timers // Make it more fun: Libraries III  // Who/What/How …? #11
+### Week #11
+- Motion II: Move and choreograph shapes - Random, Timers
+- Make it more fun: Libraries III 
+- Who/What/How …? #11
 
-Week #12: Motion III: Move and choreograph shapes - Circular // Data: Read and Visualize // Who/What/How …? #12
+### Week #12
+- Motion III: Move and choreograph shapes - Circular 
+- Data: Read and Visualize
+- Who/What/How …? #12
 
-Week #13: Final Project Workshop I: Proposal & Proof-of-Concept
+### Week #13
+Final Project Workshop I: Proposal & Proof-of-Concept
 
-Week #14: Final Project Workshop II: Testing & Feedback
+### Week #14
+Final Project Workshop II: Testing & Feedback
 
 
 ## Ethical Rules
