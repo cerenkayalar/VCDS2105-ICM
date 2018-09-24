@@ -1,6 +1,6 @@
 
 # An Introduction
-You can reach me at cerenk at gmail dot com
+e-mail: cerenk at gmail dot com
 ... or in campus: at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 
 [Classical designers are slowly beginning to evolve](https://johnmaeda.github.io/#22) 
