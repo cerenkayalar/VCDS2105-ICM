@@ -49,7 +49,7 @@ Shiffman, D. (2013). The Nature of Code: Simulating Natural Systems with Process
 Terzidis, K. (2009). Algorithms for Visual Design. Wiley Publishing, Inc.
 
 
-## Assesment
+## Assessment
 8 Assignments (40%)
 
 10 Practice (40%)
