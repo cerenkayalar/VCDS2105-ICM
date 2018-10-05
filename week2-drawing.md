@@ -1,6 +1,8 @@
 # Drawing
 
-# Who/What/How... ?
+
+
+## Who/What/How...?
 - [How art, technology and design inform creative leaders](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders) // John Maeda @TEDGlobal (2012)
  
  Supplementary reading from an interview with John Maeda: [If you want to survive in design, you better learn to code](https://www.wired.com/2017/03/john-maeda-want-survive-design-better-learn-code/)
