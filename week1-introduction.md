@@ -1,7 +1,9 @@
 
 # An Introduction
 e-mail: cerenk at gmail dot com
-... or in campus: at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
+... or in campus: at [xLab - Interaction Lab](http://xlab.yasar.edu.tr) 
+
+Follow [xLab on Instagram](https://www.instagram.com/yu.xlab/)! 
 
 [Classical designers are slowly beginning to evolve](https://johnmaeda.github.io/#22) 
 
@@ -27,5 +29,16 @@ Activity #2: [Drawing dictation](http://www.dan.sv.it/teaching/ixd307f17/a3.htm)
 
 [Processing tutorials](https://www.youtube.com/watch?v=oggIUghKe0I&list=PLrC-HcVNfULZoKXd2PRi1Mcl3IhGrBiLk)
 
+[Processing website](https://processing.org)
 
 ## Who/What/How...?
+- [Wind of Boston: Data Paintings](https://vimeo.com/198005194) by [Refik Anadol](http://refikanadol.com)
+
+**Events in Izmir**
+- [Globlokal Sergi: Yikim](http://lokall.online/2018/09/09/globlokal-sergi-yikim/)
+- [Iyi Tasarim Izmir](http://www.iyitasarimizmir.org)
+
+**Events in Istanbul**
+- [Future Tellers](http://www.digilogue.com/digilogue-summit-future-tellers18-main/) Summit and Workshops
+- [4th Istanbul Design Biennial](http://aschoolofschools.iksv.org/en/)
+
