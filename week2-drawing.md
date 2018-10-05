@@ -36,12 +36,10 @@ Default framerate: 60 FPS (frames per second) - that's how many draw() calls occ
 Clearing the canvas every frame using background()
 
 Comments: // or /* */
-// This is a one line comment 
-/* This comment 
-continues for more 
-than one line */
 
 [Processing Reference](https://processing.org/reference/) : website or local ref. on your computer
+
+[Homework #1](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/homeworks/homework1.md)
 
 **InClass Examples**
 - [p1_static_inclass](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/p1_static_inclass.pde) 
