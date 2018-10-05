@@ -40,5 +40,3 @@ void draw() {
   fill(#986597, 150); // purple shade
   ellipse(width-mouseY, height-mouseX, 25, 75); // tricky!
 }
-
-
