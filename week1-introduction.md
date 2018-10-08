@@ -27,6 +27,8 @@ Activity #2: [Drawing dictation](http://www.dan.sv.it/teaching/ixd307f17/a3.htm)
 
 [Hello Processing](https://hello.processing.org) by [Daniel Shiffman](https://shiffman.net)... and his Youtube Channel: [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
+Shiffman's [introduction to Processing videos](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
+
 [Processing tutorials](https://www.youtube.com/watch?v=oggIUghKe0I&list=PLrC-HcVNfULZoKXd2PRi1Mcl3IhGrBiLk)
 
 [Processing website](https://processing.org)
