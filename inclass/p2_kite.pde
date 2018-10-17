@@ -1,3 +1,10 @@
+
+/*
+  YasarUni
+  vcds2015-ICM / week4
+  @ceren kayalar
+*/
+
 int rope_x1, rope_x2, rope_x3;
 int rope_y1, rope_y2, rope_y3;
 
