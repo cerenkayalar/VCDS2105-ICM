@@ -12,9 +12,18 @@ void setup() {
 }
 
 void draw() {
- // background(50, 100, 100); // uncomment if you want to start with a clear canvas in every draw()
+  if (mousePressed)
+    background(50, 100, 100); 
   
-  frame.setTitle(mouseX + ", " + mouseY); // keep track of the mouse position in the window title 
+  surface.setTitle(mouseX + ", " + mouseY); // keep track of the mouse position in the window title 
+  
+  println(mouseX + ", " + mouseY); // keep track of the mouse position in the console
+  
+  if (mousePressed) { // keep track of the mouse position on the canvas (exactly on the mouse position)
+    fill(255);
+    String mousePosString= mouseX + ", " + mouseY; 
+    text(mousePosString, mouseX, mouseY);
+  }
   
   stroke(120);
   fill(#1FA4AA);
