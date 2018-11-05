@@ -40,8 +40,8 @@ Comments: // or /* */
 [Processing Reference](https://processing.org/reference/) : website or local ref. on your computer
 
 **InClass Examples**
-- [p1_static_inclass](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/p1_static_inclass.pde) 
-- [p1_interactive_inclass](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/p1_interactive_inclass.pde)
+- [inclass1_static.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass1_static.pde) 
+- [inclass1_interactive.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass1_interactive.pde)
 
 **Homework #1**
 
