@@ -11,7 +11,8 @@ Timing: 15 mins
 
 [How to use map()](https://processing.org/examples/map.html)?
 
-InClass Example
+
+**InClass Example**
 - [inclass3_circles](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass3_circles.pde)
 
 
