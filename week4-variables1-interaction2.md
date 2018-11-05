@@ -5,8 +5,8 @@
 
 **InClass Examples**
 
-see p2-kite-cisil.pdf for the original drawing
-- [p2_kite.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/p2_kite.pde) 
+see inclass2-kite-cisil.pdf for the original drawing
+- [inclass2_kite.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass2_kite.pde) 
 
 
 ## Who/What/How...?
