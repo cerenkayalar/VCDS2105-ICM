@@ -1,4 +1,4 @@
-## Homework #3 (Due: Nov 12, Mon)
+## Homework #3 (Due: Nov 12, Mon 13:30)
 
 Create a composition of the basic shapes you've learned until now: arc(), ellipse(), line(), point(), quad(), rect(), triangle(), curve(), shapes: [beginShape(), endShape(), vertex()]. 
 
@@ -13,4 +13,6 @@ Make your code readable by adding comments, and define and use variables instead
 No code snippets from online resources for this homework, display what you've learned up to now. You are free to use text(). No functions, classes, advanced code snippets please 
 
 Upload the sketch folder in a single .zip (max. 2 MB) to Google Drive folder /h3. Naming: **vcds2105f18_h3_YourNameSurname.zip** (Use English characters for your name and surname please)
+
+*Do as much as you can and if you get stuck, you will have time to work on it / ask questions one more hour in class on Monday*
 
