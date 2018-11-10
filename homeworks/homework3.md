@@ -4,7 +4,7 @@ Create a composition of the basic shapes you've learned until now: arc(), ellips
 
 The composition can be an abstraction of a picture you've recently taken or one of your own favorite illustrations/drawings. 
 
-Interaction+Motion: How would that static composition change in time? Make some shapes change color/size/position according to the mouse position and mouse state (pressed/not pressed), some shapes can be in constant motion autonomously - remember the example in last class. 
+Interaction+Motion: How would that static composition change in time? Make some shapes change color/size/position according to the mouse position and mouse state (pressed/not pressed), some shapes can be in constant motion autonomously - [remember the example](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass4_eyes.pde) we did in last class. 
 
 Experiment with restrictions using map() function and distance calculation using dist(). 
 
