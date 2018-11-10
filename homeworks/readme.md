@@ -1,4 +1,4 @@
 
-Repository of the weekly homeworks
+Repository of the homeworks
 
 -Ceren
