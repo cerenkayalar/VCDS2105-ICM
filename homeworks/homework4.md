@@ -1,5 +1,5 @@
 
-Homework #4 (Due: Nov 22, Thu 9:00)
+# Homework #4 (Due: Nov 22, Thu 9:00)
 
 From the chapter 3 ('Repeat') of the book Form+Code, choose one visual artwork or design that utilizes instructions, 
 algorithms, and/or software and create one 3 min presentation including an explanatory visual of the piece, name, 
