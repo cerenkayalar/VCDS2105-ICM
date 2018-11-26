@@ -1,5 +1,11 @@
 
-Repetition
+Intro to repetition: for()
+
+Keyboard interaction
+
+text()
+
+saving frames: saveFrame()
 
 ## InClass Examples
 
