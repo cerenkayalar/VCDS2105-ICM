@@ -10,7 +10,7 @@ The rectangle should start at a **random** location.
 
 Each time the rectangle **hits the edges**, it should **change its color (and obviously direction)**.
 
-You won't need complex code for this homework, here is a list of functions, types, operators you will need to use more or less:
+You won't need advanced functions for this homework, think in simple terms. Here is a list of functions, types, operators you will need to use more or less:
 
 **data/primitive** int, float
 
