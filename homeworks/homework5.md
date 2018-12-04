@@ -1,7 +1,7 @@
 
 ## Homework 5 (Due Dec 10, Mon 13:30)
 
-DVD Screensaver
+### DVD Screensaver
 
 Remember the famous [DVD screensaver](https://www.youtube.com/watch?v=B6mtmlX7Vrw) ([Recap from "The Office"](https://www.youtube.com/watch?v=vhxXCHhh9H8)) where the **DVD logo bounces around the screen** and 
 we all waited desperately for it to hit the corner? Replicate that screensaver, but only using a **rectangle** instead of the DVD logo. 
