@@ -13,7 +13,7 @@ Some retro Action / Arcade Games to remember:
 
 A more recent game based on similar basic rules as DVD screensaver > Game but has a complex structure: [Agario (2015)](https://agar.io)
 
-Design a simple, fast-paced Action / Arcade Game based on the DVD screensaver example we've started in-class. Keep the visuals simple, use circles, rectangles and lines. Use simple typography to keep score or show other basic data. Start with the least amount of rules.
+Design a simple, fast-paced Action / Arcade Game based on the DVD screensaver homework. Use simple typography to keep score or show other basic data. Start with the least amount of rules. You may use simple shapes and/or images to represent the characters and baits in the game.
 
 Guide for the homework:
 - **single player**
