@@ -28,8 +28,6 @@ Guide for the homework:
 
 You will define "eating food" and "colliding with the antagonist" by checking the **boundary conditions of the objects**. Remember the distance calculations we did in class. This time you will check both the "protagonist and food", "protagonist and antagonist" boundaries to define the clash condition!
 
-You may use images to visualize the characters.
-
 You may define more rules to your game, but keep it simple first and try to make it playable.
 
 Your submissions (.pde files) should start with a comments section where you define the game rules and controls. Use the comments block: /* */
