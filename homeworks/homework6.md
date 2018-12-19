@@ -6,8 +6,11 @@
 Some retro Action / Arcade Games to remember:
 
 [Pong (1972 Atari)](https://www.youtube.com/watch?v=e4VRgY3tkh0) BONUS! Project Game Over: [The Human Pong](https://www.youtube.com/watch?v=sWY0Q_lMFfw)
+
 [Space Invaders (1979)](https://www.youtube.com/watch?v=kR2fjwr-TzA) BONUS! Project Game Over: [The Human Space Invaders](https://www.youtube.com/watch?v=VczbbiRmDik)
+
 [Pac-Man (1980)](https://www.youtube.com/watch?v=-CbyAk3Sn9I) BONUS! Project Game Over: [The Human Pacman](https://www.youtube.com/watch?v=M3D0JvYJkGc)
+
 A more recent game based on similar basic rules as DVD screensaver > Game but has a complex structure: [Agario (2015)](https://agar.io)
 
 Design a simple, fast-paced Action / Arcade Game based on the DVD screensaver example we've started in-class. Keep the visuals simple, use circles, rectangles and lines. Use simple typography to keep score or show other basic data. Start with the least amount of rules.
