@@ -1,5 +1,5 @@
 
-## Homework 6 (Due Dec 24, Mon 13:30)
+## Homework 6 (Due Dec 24, Mon 15:30)
 
 ### DVD Screensaver to Game: Catch me if you can
 
