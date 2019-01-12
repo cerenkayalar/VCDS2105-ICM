@@ -1,5 +1,5 @@
 
-#Final Project Alternatives
+# Final Project Alternatives
 
 Create a small visual world for the viewer to explore. As a point of departure, think about [Zork](https://www.youtube.com/watch?v=xzUagi41Wo0) or [Howling Dogs](http://slimedaughter.com/games/twine/howlingdogs/), but with images in place of text. (Use your own images, either illustrations, diagrams, photographs, or collages.) The world is composed of three "rooms." The viewer can choose to navigate between these rooms with buttons that you create. The viewer can also explore and activate events in each room through rollovers and clicking on elements. 
 
