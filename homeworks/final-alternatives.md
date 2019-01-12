@@ -7,7 +7,7 @@ p.1 Create a small visual world for the viewer to explore. As a point of departu
 
 
 p.2 Choreograph a set of visual patterns made with 'for' loops to a 30 second clip of music. First select the music and edit it down to 30 seconds if needed. Next, sketch and code the visual patterns. Finally, draw the patterns to the screen in relation to what is happening in the music.
-You can form this project on the matrix of dots/lines inclass example.
+_You can form this project on the matrix of dots/lines inclass example._
 [Processing Sound Tutorial](https://processing.org/tutorials/sound/)
 
 
