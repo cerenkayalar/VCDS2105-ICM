@@ -11,7 +11,7 @@ Follow [xLab on Instagram](https://www.instagram.com/yu.xlab/)!
 
 According to the [Media Systems' report](https://mediasystems.soe.ucsc.edu/report) Computational Media "helps us better understand the new media/digital landscape by focusing our attention on the types of work and the types of knowledge and skills that are required, and the kinds of outcomes of that work and knowledge"
 
-If you are curious [examples around](https://github.com/ITPNYU/ICM-2015/wiki/Projects) 
+If you are curious [examples around](https://github.com/ITPNYU/ICM-2018/wiki/Inspiration) 
 
 Recently the PROSECCO research network has defined [computational creativity](http://prosecco.computationalcreativity.net/field) as "an emerging field that studies and exploits the potential of computers to be more than feature-rich tools, and to act as autonomous creators and co creators in their own right"
 
