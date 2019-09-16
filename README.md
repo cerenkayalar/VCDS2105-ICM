@@ -50,9 +50,9 @@ Terzidis, K. (2009). Algorithms for Visual Design. Wiley Publishing, Inc.
 
 
 ## Assessment
-8 Assignments (40%)
+Assignments (40%)
 
-10 Practice (40%)
+Practice (40%)
 
 Final Project (20%)
 
