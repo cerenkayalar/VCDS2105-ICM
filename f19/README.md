@@ -1,4 +1,4 @@
-# VCDS2105-ICM-Fall2018
+# VCDS2105-ICM-Fall2019
 Introduction To Digital Media Coding (a.k.a Introduction to Computational Media), Fall 2019 @Yasar University
 
 This course is designed particularly for visual communication design students who are interested in better understanding how computers work, how their daily workflow can be improved using this knowledge and in learning to create their own digital media
