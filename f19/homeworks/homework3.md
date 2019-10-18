@@ -9,6 +9,8 @@ And when you let go of the mouse, the balls go back to their **initial position
 Don't use the noLoop() function, it interrupts the processing drawing loop, try to stop and start the movement
 using coordinates only
 
+You will need to define variables to make the balls move.
+
 You may use mouseReleased() function or you may try different solutions. Be creative!
 
 Bonus: try using random() function to randomize the speed
