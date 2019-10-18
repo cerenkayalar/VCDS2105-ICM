@@ -1,6 +1,6 @@
 # Homework #2: Basic Interaction
 
-## (Due: Oct 14, Mon 09:00)
+## Due: Oct 14, Mon 09:00
 
 Make your self-portrait from Homework #1 interactive using setup(), draw(), mouseX, mouseY and try experimenting with if statements - decisions -, mousePressed and dist() function. Modify the colors and shapes of your sketch (portrait) according to the mouse movement and position, be creative!
 

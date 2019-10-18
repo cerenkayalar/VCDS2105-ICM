@@ -1,6 +1,6 @@
 # Homework #3: Move, Freeze, Release
 
-## (Due: Oct 21, Mon 09:00)
+## Due: Oct 21, Mon 09:00
 
 Draw **4 circles** with **different colors**, starting from **4 corners** of the screen **traveling through the center** with **different speeds**.
 When you click and hold the mouse button, the balls should **freeze**.

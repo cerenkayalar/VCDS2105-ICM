@@ -1,6 +1,6 @@
 # Homework #1: Draw
 
-## (Due: Sep 30, Mon 9:00)
+## Due: Sep 30, Mon 9:00
 
 Your first homework details are as follows:
 
