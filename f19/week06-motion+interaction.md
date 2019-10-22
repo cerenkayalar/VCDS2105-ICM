@@ -1,6 +1,6 @@
 # week6: Motion and Interaction Recap
 
-![board](week6-board.jpg)
+![board](boards/week6-board.jpg)
 
 **InClass**
 [week6_animationRecap.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/f19/inclass/week6_animationRecap.pde)
