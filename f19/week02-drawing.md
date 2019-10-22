@@ -1,0 +1,57 @@
+# Drawing
+
+[Download Processing](https://processing.org/download/)
+
+Proper installation: Unzip the whole zip file and move it to C:/ (win) + create shortcut to desktop, to Applications (mac)
+
+Getting familiar with the IDE: Menu, Toolbar, Tabs, Text editor, Message area, Console + Display window (canvas)
+
+println()
+
+Sketchbook, sketch, .pde Using properly: English IDE, no Turkish characters in sketch names, no spaces, under /vcds2105f18
+
+Basic shapes
+
+Setting canvas size
+
+Working with screen coordinate system
+
+Drawing order: top to bottom line-by-line
+
+Drawing with color: fill(), noFill()
+To change the transparency, use the second/fourth parameter (alpha value) of fill () with values 0 to 255 (0: transparent -> 255: opaque)
+
+Shape properties: smooth(), noSmooth(), stroke(), strokeWeight(), noStroke()
+
+To change the transparency, use the second/fourth parameter (alpha value) of stroke () with values 0 to 255
+
+Introduction to interactivity
+
+Core blocks: setup(), draw() / Don't forget the curly brackets: {...}
+
+Mouse position: mouseX, mouseY
+
+Default framerate: 60 FPS (frames per second) - that's how many draw() calls occur per second!
+
+Clearing the canvas every frame using background()
+
+Comments: // or /* */
+
+[Processing Reference](https://processing.org/reference/) : website or local ref. on your computer
+
+**InClass Examples**
+- [inclass1_static.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass1_static.pde) 
+- [inclass1_interactive.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/inclass/inclass1_interactive.pde)
+
+**Homework #1**
+
+[Due Oct, 8 Mon 13:30](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/homeworks/homework1.md)
+
+## Who/What/How...?
+- [How art, technology and design inform creative leaders](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders) // John Maeda @TEDGlobal (2012)
+ 
+ Supplementary reading from an interview with John Maeda: [If you want to survive in design, you better learn to code](https://www.wired.com/2017/03/john-maeda-want-survive-design-better-learn-code/)
+ 
+Recommended reading and watch: Maeda summarizes every year the design trends in tech world in [SXSW](https://www.sxsw.com) by his [Design In Tech](https://designintech.report) reports
+
+ - [A History of the Future: Art and Technology from 1965 to Yesterday](https://www.youtube.com/watch?v=mHox98NFU3o) // Casey Reas @The Gray Area Festival (2015)
