@@ -1,4 +1,4 @@
-# Homework #4: Pattern Study
+# Homework #5: Pattern Study
 
 ## Due: Nov 4, Mon 09:00
 
