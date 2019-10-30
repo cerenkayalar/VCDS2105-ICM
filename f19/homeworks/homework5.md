@@ -7,7 +7,8 @@ Take a picture of a tapestry rich in patterns (kilim, carpet, mandala  etc.. ) t
 Rules:
 + Understand and make use of [map()](https://processing.org/reference/map_.html) and [dist()](https://processing.org/reference/dist_.html) functions. (random() will be your friend to increase variety)
 + To make decisions, you need if / if-else blocks.
-Must:
+
+Your sketch should display
 + One element controlled by the mouse.
 + One element that changes over time, independently of the mouse.
 + One element that is different every time you run the sketch.
