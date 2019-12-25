@@ -1,5 +1,12 @@
 # week14: OOP - object oriented programming
 
+[Youtube > ITP/IMA Winter Show 2018](https://www.youtube.com/watch?v=02z_yyHAm-U)
+
+[Youtube > ITP Winter Show 2019](https://www.youtube.com/watch?v=11M3RLmayz8)
+
+[ITP Winter Show 2019 Projects](https://itp.nyu.edu/shows/winter2019/projects/)
+
+
 [week14_arrays.pde](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/f19/inclass/week14_arrays.pde)
 
 [week14_oop](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/f19/inclass/week14_oop/)
