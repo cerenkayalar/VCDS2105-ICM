@@ -1,6 +1,6 @@
-# week14: Bubble Game
+# week14: End of Semester & End of 2019
 
-[week14_oop_v2](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/f19/inclass/week14_oop_v2/)
+[week14_oop_v2: Bubble Game](https://github.com/cerenkayalar/VCDS2105-ICM/blob/master/f19/inclass/week14_oop_v2/)
 
 
 ## Final Project
